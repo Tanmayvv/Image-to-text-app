@@ -2,6 +2,7 @@
 
 
 Image to Text App
+
 This is a firebase ml kit text recognition android studio project. ML Kit is a mobile SDK that brings Google's machine learning expertise to Android, and iOS apps in a powerful, yet easy-to-use package.
  In this, using the android machine learning (firebase ml kit) we will allow user to:
  
