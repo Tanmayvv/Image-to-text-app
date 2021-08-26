@@ -12,6 +12,7 @@ This is a firebase ml kit text recognition android studio project. ML Kit is a m
 
 •	We use ML Kit Text Recognition API for this.
 
+
  <img src ="https://github.com/Tanmayvv/Image-to-text-app/blob/master/p1.jpg">
   <img src ="https://github.com/Tanmayvv/Image-to-text-app/blob/master/p2.jpg">
  
